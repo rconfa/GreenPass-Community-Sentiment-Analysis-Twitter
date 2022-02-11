@@ -1,0 +1,2 @@
+# GreenPass-Community-Sentiment-Analysis-Twitter
+The project has set itself the goal of analyzing the thoughts and interaction of Italian users through the social posts expressed through the Twitter platform on the day of the entry into force of the new measures. In particular, we want to research the reference hubs present on the network, but also the sentiment and emotions of peoples with respect to the new limitations. 
