@@ -15,7 +15,7 @@ with the aim of understanding who are the users who write and interact on the pl
 
 # Data
 The data was collected by Twitter using their API and Tweepy python package. All tweets were written on December 6th in italian languages. <br>
-In data folder you can find the .csv file with all the collected tweet ([here](https://github.com/rconfa/GreenPass-Community-Sentiment-Analysis-Twitter/blob/main/Data/autore_cluster_sentiment.csv)), and you can also find two extras files that contains the sentiment extracted for each tweet ([here](https://github.com/rconfa/GreenPass-Community-Sentiment-Analysis-Twitter/blob/main/Data/text_sentiment.csv)) and the aggregated sentiment per cluster ([here](https://github.com/rconfa/GreenPass-Community-Sentiment-Analysis-Twitter/blob/main/Data/autore_cluster_sentiment.csv)).
+If you need the data files used just write me, I have not been reported here on github to comply with the twitter API policies. In particular all the collected tweet and the sentiment extracted for each tweet is available if you need them.
 
 # Files
 All the developed code is present in the file [Code.ipynb](https://github.com/rconfa/GreenPass-Community-Sentiment-Analysis-Twitter/blob/main/Code.ipynb).
